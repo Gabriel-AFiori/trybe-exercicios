@@ -4,9 +4,9 @@
 
 ##### Bloco 1: Introdução - Unix, Shell & Git 
 
-- ✅ 1-1: _Unix & Shell_
-- ✅ 1-2: _Git - O que é e para que serve_
-- ✅ 1-3: _Git & GitHub - Entendendo os comandos_
+- [✅] 1-1: _Unix & Shell_
+- [✅] 1-2: _Git - O que é e para que serve_
+- [✅] 1-3: _Git & GitHub - Entendendo os comandos_
 
 
 ##### Bloco 2: Introdução à HTML & CSS
