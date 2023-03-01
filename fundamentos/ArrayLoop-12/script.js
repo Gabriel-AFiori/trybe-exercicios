@@ -21,3 +21,22 @@ else if (arithmeticAverage <= 20) {
 else {
     console.log('Valor incorreto');
 }
+
+let highNumber = [];
+for (let index = 0; index < numbers.length; index += 1) {
+    if (highNumber < numbers[index]) {
+        highNumber = numbers[index]
+    }
+}
+
+console.log(highNumber);
+
+let oddNumber = [];
+
+for (let index = 0; index < numbers.length; index += 1) {
+    if (numbers[index] % 2 == 1) {
+        oddNumber.push(numbers[index])
+    }
+}
+
+console.log(oddNumber);
